@@ -1,0 +1,5 @@
+Name: John Doe
+Email: john.doe@email.com
+Skills: Python, Machine Learning, SQL
+Experience: 3
+Education: B.Tech
